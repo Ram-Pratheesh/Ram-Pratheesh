@@ -16,6 +16,6 @@ I am a **passionate developer** with a strong foundation in **C, Python, C++, an
 🔹 **Always Open to Collaboration** - Let's build something amazing together!  
 
 📫 **Let's Connect:**  
-💼 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) | ✉️ [Email](#) | 🌐 [Portfolio](#)  
+💼 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rampratheeshsk) | ✉️ [Email](#) | 🌐 [Portfolio](#)  
 
 🚀 *Excited to contribute, learn, and make an impact in the world of technology!*  
