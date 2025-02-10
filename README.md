@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hey there! I'm [Ram Pratheesh S.K]  
 
-<!--
-**Ram-Pratheesh/Ram-Pratheesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Undergraduate** | 🚀 **Flutter Enthusiast** | 🎯 **Tech Innovator**  
 
-Here are some ideas to get you started:
+I am a **passionate developer** with a strong foundation in **C, Python, C++, and Web Development using Java**. My journey in tech has led me to **Flutter**, where I love building **mobile and web applications** while expanding my skills in **backend technologies like Node.js and MongoDB**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do  
+✔ **Develop mobile & web apps using Flutter**  
+✔ **Explore backend technologies (Node.js, MongoDB)**  
+✔ **Participate in hackathons & build creative solutions**  
+✔ **Continuously learn and innovate in the tech space**  
+
+### 🏆 Highlights  
+🔹 **Hackathon Enthusiast** - I enjoy solving real-world problems with technology  
+🔹 **Aspiring Full-Stack Developer** - Currently leveling up my backend skills  
+🔹 **Always Open to Collaboration** - Let's build something amazing together!  
+
+📫 **Let's Connect:**  
+💼 [LinkedIn](#) | ✉️ [Email](#) | 🌐 [Portfolio](#)  
+
+🚀 *Excited to contribute, learn, and make an impact in the world of technology!*  
