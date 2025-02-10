@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm [Ram Pratheesh S.K]  
+### 👋 Hey there! I'm Ram Pratheesh S.K  
 
 💻 **Computer Science Undergraduate** | 🚀 **Flutter Enthusiast** | 🎯 **Tech Innovator**  
 
@@ -16,6 +16,6 @@ I am a **passionate developer** with a strong foundation in **C, Python, C++, an
 🔹 **Always Open to Collaboration** - Let's build something amazing together!  
 
 📫 **Let's Connect:**  
-💼 [LinkedIn](#) | ✉️ [Email](#) | 🌐 [Portfolio](#)  
+💼 [www.linkedin.com/in/rampratheeshsk](#) | ✉️ [Email](#) | 🌐 [Portfolio](#)  
 
 🚀 *Excited to contribute, learn, and make an impact in the world of technology!*  
