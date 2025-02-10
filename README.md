@@ -17,7 +17,6 @@ I am a **passionate developer** with a strong foundation in **C, Python, C++, an
 🔹 **Always Open to Collaboration** - Let's build something amazing together!  
 
 📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampratheeshsk/) |[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skrampratheesh@gmail.com@gmail.com)
- | 🌐 [Portfolio](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampratheeshsk/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skrampratheesh@gmail.com@gmail.com) 
 
 🚀 *Excited to contribute, learn, and make an impact in the world of technology!*  
