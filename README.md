@@ -1,20 +1,23 @@
-# 👋 Hey there! I'm **Ram Pratheesh S.K** 
+# 👋 Hey there! I'm **Ram Pratheesh S.K**  
 
-💻 **Computer Science Undergraduate** | 🚀 **Flutter Enthusiast** | 🎯 **Tech Innovator**  
+# 👋 Hey there! I'm **Ram Pratheesh S.K**  
+
+💻 **Computer Science Undergraduate** | 🚀 **Flutter Developer** | 🎯 **Tech Explorer**  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-I am a **passionate developer** with a strong foundation in **programming and web development**. My journey in tech has led me to **Flutter**, where I love building **mobile and web applications** while expanding my skills in **backend technologies like Node.js and MongoDB**. I am also currently **learning React** to enhance my frontend expertise.  
+I am a **passionate developer** who enjoys learning and building meaningful applications. My journey in tech has led me to **Flutter** for mobile development and **React.js** for web applications. I have **worked on projects using Node.js and MongoDB** and continue to **enhance my backend skills**. Currently, I am **actively learning DSA** to strengthen my problem-solving abilities.  
 
-### 💡 What I Do  
-✔ **Develop mobile & web apps using Flutter**  
-✔ **Work with backend technologies (Node.js, MongoDB)**  
-✔ **Solve DSA problems to strengthen problem-solving skills**  
+## 💡 What I Do  
+✔ **Develop mobile apps using Flutter**  
+✔ **Build web applications with React.js**  
+✔ **Expanding my backend expertise with Node.js & MongoDB**  
+✔ **Currently learning DSA to improve problem-solving skills**  
 ✔ **Collaborate on innovative projects & contribute to open-source**  
 
-### 🏆 Highlights  
-🔹 **Hackathon Enthusiast** - Passionate about solving real-world problems with technology  
-🔹 **Aspiring Full-Stack Developer** - Currently leveling up my backend skills  
-🔹 **Driven by Innovation** - Always seeking to learn and build impactful solutions  
+## 🏆 Highlights  
+🔹 **Hackathon Enthusiast** - Passionate about solving real-world problems through technology  
+🔹 **Aspiring Full-Stack Developer** - Continuously improving backend and system design knowledge  
+🔹 **Always Learning** - Exploring new technologies to grow and build impactful solutions 
 
 ### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampratheeshsk/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skrampratheesh@gmail.com)  
