@@ -21,16 +21,7 @@ I am a **passionate developer** with a strong foundation in **programming and we
 
 ## 🛠 My Development Stack  
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  
-
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+ 
+  
 🚀 *Excited to contribute, learn, and make an impact in the world of technology!*  
