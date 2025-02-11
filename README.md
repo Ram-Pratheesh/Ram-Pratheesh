@@ -5,7 +5,7 @@
 
 <img align="right" width="310" height="200" style="margin-top: -20px;" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-<h3>🚀 Journey in Tech</h3>
+<h2>🚀 Journey in Tech</h2>
 
 💡 **Passionate Developer** exploring **Flutter for mobile** & **React.js for web**  
 🛠 **Strong foundation in C, C++, Python & Java**  
