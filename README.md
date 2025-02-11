@@ -3,20 +3,11 @@
 💻 **Computer Science Undergraduate** | 🚀 **Flutter Developer** | 🎯 **Tech Explorer**  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-I am a **passionate developer** who enjoys learning and building meaningful applications. My journey in tech has led me to **Flutter** for mobile development and **React.js** for web applications. I have a **strong foundation in C, C++, Python, and web development using Java**, which has helped me explore **full-stack development**. I have **worked on projects using Node.js and MongoDB** and continue to **enhance my backend skills**. Currently, I am **actively learning DSA** to strengthen my problem-solving abilities.  
+I am a **passionate developer** interested in **mobile development with Flutter** and **web development with React.js**. With a **strong foundation in C, C++, Python, and Java**, I have worked on projects using **Node.js, MongoDB, and Flask**. Currently, I’m **expanding my backend expertise** and **learning DSA** to improve problem-solving skills.  
 
-## 💡 What I Do  
-✔ **Develop mobile apps using Flutter**  
-✔ **Build web applications with React.js**  
-✔ **Expanding my backend expertise with Node.js & MongoDB**  
-✔ **Currently learning DSA to improve problem-solving skills**  
-
-## 🏆 Highlights  
-🔹 **Hackathon Enthusiast** - Love participating in competitions and building innovative solutions  
-🔹 **Problem-Solving Mindset** - Enjoy tackling challenges and improving my coding skills  
-
-### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampratheeshsk/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skrampratheesh@gmail.com)  
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampratheeshsk/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skrampratheesh@gmail.com)  
 
 ## 🛠 My Development Stack  
 
@@ -24,11 +15,6 @@ I am a **passionate developer** who enjoys learning and building meaningful appl
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-
-
-
-
 [![Ram Pratheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ram-Pratheesh&bg_color=000000&color=ffffff&line=29bc5d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
   
-🚀 *Excited to contribute, learn, and make an impact in the world of technology!*  
+🚀 *Excited to build, learn, and grow in the world of technology!*  
