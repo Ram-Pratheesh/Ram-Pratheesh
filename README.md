@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **Ram Pratheesh**  
 
 💻 **Computer Science Undergraduate** | 🚀 **Flutter Developer** | 🎯 **Tech Explorer**  
-<img align="right" width="390" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="390" height="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 I am a **passionate developer** interested in **mobile development with Flutter** and **web development with React.js**. With a **strong foundation in C, C++, Python, and Java**, I have worked on projects using **Node.js, MongoDB, and Flask**. Currently, I’m **expanding my backend expertise** and **learning DSA** to improve problem-solving skills.  
 
