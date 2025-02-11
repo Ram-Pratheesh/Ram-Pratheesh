@@ -3,11 +3,16 @@
 💻 **Computer Science Undergraduate** | 🚀 **Flutter Developer** | 🎯 **Tech Explorer**  
 <img align="right" width="390" height="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-I am a **passionate developer** interested in **mobile development with Flutter** and **web development with React.js**. With a **strong foundation in C, C++, Python, and Java**, I have worked on projects using **Node.js, MongoDB, and Flask**. Currently, I’m **expanding my backend expertise** and **learning DSA** to improve problem-solving skills.  
+### 🚀 Journey in Tech  
+💡 **Passionate Developer** exploring **Flutter for mobile** & **React.js for web**  
+🛠 **Strong foundation in C, C++, Python & Java**  
+🔗 **Worked on projects using Node.js & MongoDB** while enhancing backend skills  
+📚 **Currently learning DSA** to strengthen problem-solving abilities  
+⚡ **Hackathon Enthusiast** – love solving real-world challenges with technology!  
+ 
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampratheeshsk/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skrampratheesh@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampratheeshsk/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skrampratheesh@gmail.com)  
 
 ## 🛠 My Development Stack  
 
