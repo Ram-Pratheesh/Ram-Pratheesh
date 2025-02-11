@@ -2,18 +2,30 @@
 
 💻 **Computer Science Undergraduate** | 🚀 **Flutter Developer** | 🎯 **Tech Explorer**  
 
-<img align="right" width="340" height="240" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<br>
+
+<img align="right" width="320" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ### 🚀 Journey in Tech  
 💡 **Passionate Developer** exploring **Flutter for mobile** & **React.js for web**  
 🛠 **Strong foundation in C, C++, Python & Java**  
-🔗 **Worked on projects using Node.js & MongoDB** while enhancing backend skills  
+🔗 **Worked on projects using Node.js & MongoDB**  
 📚 **Currently learning DSA** to strengthen problem-solving abilities  
 ⚡ **Hackathon Enthusiast** – love solving real-world challenges with technology!  
- 
+
+---
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampratheeshsk/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skrampratheesh@gmail.com)  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rampratheeshsk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:skrampratheesh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🛠 My Development Stack  
 
