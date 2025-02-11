@@ -5,11 +5,11 @@
 <img align="right" width="310" height="190" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 **🚀 Journey in Tech**  
-💡 **Passionate Developer** exploring **Flutter for mobile** & **React.js for web**  
-🛠 **Strong foundation in C, C++, Python & Java**  
-🔗 **Worked on projects using Node.js & MongoDB** while enhancing backend skills  
-📚 **Currently learning DSA** to strengthen problem-solving abilities  
-⚡ **Hackathon Enthusiast** – love solving real-world challenges with technology!  
+    💡 **Passionate Developer** exploring **Flutter for mobile** & **React.js for web**  
+    🛠 **Strong foundation in C, C++, Python & Java**  
+    🔗 **Worked on projects using Node.js & MongoDB** while enhancing backend skills  
+    📚 **Currently learning DSA** to strengthen problem-solving abilities  
+    ⚡ **Hackathon Enthusiast** – love solving real-world challenges with technology!  
 
 ## 📫 Let's Connect  
 <p align="left">
