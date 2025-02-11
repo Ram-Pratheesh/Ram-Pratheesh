@@ -2,7 +2,7 @@
 
 💻 **Computer Science Undergraduate** | 🚀 **Flutter Developer** | 🎯 **Tech Explorer**  
 
-<br>
+
 
 <img align="right" width="340" height="240" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
