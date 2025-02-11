@@ -2,12 +2,10 @@
 
 💻 **Computer Science Undergraduate** | 🚀 **Flutter Developer** | 🎯 **Tech Explorer**  
 
-<br>
-
 <img align="right" width="320" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ## 🚀 Journey in Tech  
-**──────────────**  
+   **──────────────**  
 💡 **Passionate Developer** exploring **Flutter for mobile** & **React.js for web**  
 🛠 **Strong foundation in C, C++, Python & Java**  
 🔗 **Worked on projects using Node.js & MongoDB** while enhancing backend skills  
