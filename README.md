@@ -2,16 +2,19 @@
 
 💻 **Computer Science Undergraduate** | 🚀 **Flutter Developer** | 🎯 **Tech Explorer**  
 
-<img align="right" width="310" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<br>
+
+<img align="right" width="310" height="200" style="margin-top: -20px;" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ## 🚀 Journey in Tech  
+
 💡 **Passionate Developer** exploring **Flutter for mobile** & **React.js for web**  
 🛠 **Strong foundation in C, C++, Python & Java**  
 🔗 **Worked on projects using Node.js & MongoDB** while enhancing backend skills  
 📚 **Currently learning DSA** to strengthen problem-solving abilities  
 ⚡ **Hackathon Enthusiast** – love solving real-world challenges with technology!  
 
----
+<br>
 
 ## 📫 Let's Connect  
 
@@ -24,7 +27,7 @@
   </a>
 </p>
 
----
+<br>
 
 ## 🛠 My Development Stack  
 
@@ -32,7 +35,7 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
----
+<br>
 
 ## 📊 GitHub Activity  
 
