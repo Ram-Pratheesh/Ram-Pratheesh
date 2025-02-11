@@ -9,7 +9,7 @@
 ### 🚀 Journey in Tech  
 💡 **Passionate Developer** exploring **Flutter for mobile** & **React.js for web**  
 🛠 **Strong foundation in C, C++, Python & Java**  
-🔗 **Worked on projects using Node.js & MongoDB enhancing my backend skills**  
+🔗 **Worked on projects using Node.js & MongoDB**while enhancing backend skills
 📚 **Currently learning DSA** to strengthen problem-solving abilities  
 ⚡ **Hackathon Enthusiast** – love solving real-world challenges with technology!  
 
